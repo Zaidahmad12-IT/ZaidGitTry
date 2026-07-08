@@ -1,2 +1,3 @@
 # ZaidGitTry
-First trial Repo
+First trial Repository.
+Aurthor-Zaid Ahmad
